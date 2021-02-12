@@ -1,4 +1,4 @@
-# pathtrans
+# mazegen
 
 ## Installation
 
